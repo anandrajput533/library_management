@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  author: MyString
+  description: MyString
+  book_category: MyString
+  issued_to: 1
+  issued_date_start: 2023-07-15 11:09:27
+  issued_data_end: 2023-07-15 11:09:27
+  references: 
+
+two:
+  name: MyString
+  author: MyString
+  description: MyString
+  book_category: MyString
+  issued_to: 1
+  issued_date_start: 2023-07-15 11:09:27
+  issued_data_end: 2023-07-15 11:09:27
+  references: 
